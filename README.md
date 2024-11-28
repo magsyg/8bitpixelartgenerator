@@ -19,5 +19,5 @@ Results will then be found in the results folder
 
 # Results
 
-<img src="https://github.com/magsyg/8bitpixelartgenerator/blob/master/test/images/1.jpg" width="200">
-<img src="https://github.com/magsyg/8bitpixelartgenerator/blob/master/test/results/pixel_1.png" width="200">
+<img src="https://github.com/magsyg/8bitpixelartgenerator/blob/master/test/images/2.jpg" width="200">
+<img src="https://github.com/magsyg/8bitpixelartgenerator/blob/master/test/results/pixel_2.png" width="200">
