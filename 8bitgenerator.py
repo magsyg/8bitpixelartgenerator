@@ -105,7 +105,7 @@ def generate_8bitimage(filename, width=64):
                 value=0
             final_image[h][w] = (hue, saturation, value)
     save_image = Image.fromarray(final_image.astype(np.uint8), 'HSV').convert('RGB')
-    save_image.save(f"pixel_{get_filename(filename)}"+".png")
+    save_image.save(f"results/pixel_{get_filename(filename)}"+".png")
 
 def is_image(filename):
     return os.path.exists(path) and filename.split('.')[-1] in valid_image_endings
