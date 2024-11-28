@@ -18,3 +18,6 @@ python 8bitgenerator.py <path-to-folder-or-image>
 Results will then be found in the results folder
 
 # Results
+
+![Pre-conversion](https://github.com/magsyg/8bitpixelartgenerator/blob/master/test/images/1.jpg)
+![After-converstion](https://github.com/magsyg/8bitpixelartgenerator/blob/master/test/results/pixel_1.png)
